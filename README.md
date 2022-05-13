@@ -1,6 +1,6 @@
 # ropstenSwap.vercel.app
 
-### Simple responsive Web 3.0 Blockchain App
+### Simple Ethereum Web 3.0 Blockchain App
 
 #### Using React, Vite and Tailwind for the front end
 #### && Solidity, Hardhat and alchemyapi for the back end
