@@ -3,7 +3,7 @@
 ### Simple Ethereum Web 3.0 Blockchain App
 
   ####   Using React, Vite and Tailwind for the front end
-  ####   Using Solidity, Hardhat and alchemyapi for the back end
+  ####   && Solidity, Hardhat and alchemyapi for the back end
 
 #### Hosted on Vercel
 
